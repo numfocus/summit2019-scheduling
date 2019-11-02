@@ -21,3 +21,7 @@ Areas of focus based on Vision & Mission or groups of related goals
 Top line results that will indicate overall success  
 
 (LIST YOUR GOALS)
+
+## VALUES
+
+(LIST YOUR VALUES)
